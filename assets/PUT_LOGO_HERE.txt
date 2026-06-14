@@ -1,0 +1,9 @@
+PUT YOUR LOGO FILE HERE
+=======================
+Save your orbital logo image as:
+  assets/logo.png
+
+This is the logo from the image you uploaded (the purple orbital/infinity mark).
+The app will automatically use it as:
+  - Browser tab favicon
+  - Sidebar logo image
