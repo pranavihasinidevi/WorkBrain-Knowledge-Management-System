@@ -1,4 +1,4 @@
-"""📱 QR Code Access — WorkBrain"""
+"""📱 QR Code Access — LegacyOS"""
 import streamlit as st, qrcode, io
 from data import QR_MACHINES, KNOWLEDGE, DEPARTMENTS, DEPT_COLORS
 
